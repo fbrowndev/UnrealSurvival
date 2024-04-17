@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unity_PortfolioProjects\\UnrealSurvival\\UIFocus\\Source\\UIFocus\\UIFocus.Build.cs",
+		"D:\\Unity_PortfolioProjects\\UnrealSurvival\\UIFocus\\Source\\UIFocus.Target.cs",
+		"D:\\Unity_PortfolioProjects\\UnrealSurvival\\UIFocus\\Source\\UIFocusEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

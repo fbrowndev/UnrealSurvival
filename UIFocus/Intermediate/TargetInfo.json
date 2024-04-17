@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UIFocus",
+			"Path": "D:\\Unity_PortfolioProjects\\UnrealSurvival\\UIFocus\\Source\\UIFocus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UIFocusEditor",
+			"Path": "D:\\Unity_PortfolioProjects\\UnrealSurvival\\UIFocus\\Source\\UIFocusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
