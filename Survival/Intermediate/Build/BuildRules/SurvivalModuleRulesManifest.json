@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unity_PortfolioProjects\\UnrealSurvival\\Survival\\Source\\Survival\\Survival.Build.cs",
+		"D:\\Unity_PortfolioProjects\\UnrealSurvival\\Survival\\Source\\Survival.Target.cs",
+		"D:\\Unity_PortfolioProjects\\UnrealSurvival\\Survival\\Source\\SurvivalEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
