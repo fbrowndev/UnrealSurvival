@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Survival-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unity_PortfolioProjects\UnrealSurvival\Survival\Intermediate\Build\Win64\x64\SurvivalEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\Unity_PortfolioProjects\UnrealSurvival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Survival\Survival.init.gen.cpp.obj"
+"D:\Unity_PortfolioProjects\UnrealSurvival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Survival\SurvivalCharacter.gen.cpp.obj"
+"D:\Unity_PortfolioProjects\UnrealSurvival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Survival\SurvivalGameMode.gen.cpp.obj"
+"D:\Unity_PortfolioProjects\UnrealSurvival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Survival\Survival.cpp.obj"
+"D:\Unity_PortfolioProjects\UnrealSurvival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Survival\SurvivalCharacter.cpp.obj"
+"D:\Unity_PortfolioProjects\UnrealSurvival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Survival\SurvivalGameMode.cpp.obj"
+"D:\Unity_PortfolioProjects\UnrealSurvival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Survival\Default.rc2.res"
+/OUT:"D:\Unity_PortfolioProjects\UnrealSurvival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Survival\UnrealEditor-Survival-Win64-DebugGame.lib"

@@ -1,0 +1,6 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" SurvivalEditor Win64 DebugGame -Project="D:\Unity_PortfolioProjects\UnrealSurvival\Survival\Survival.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\arrow\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Unity_PortfolioProjects\UnrealSurvival).
+  Target is up to date
+  Total execution time: 1.72 seconds
